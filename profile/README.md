@@ -19,7 +19,7 @@
 
 <h2>🚀 Steps to get started</h2>
 <ol>
-    <li>Join the KOSC GitHub Org by raising an <a href="">issue</a> (you will receive an invitation)</li>
+    <li>Join the KOSC GitHub Org by raising an <a href="https://github.com/Katsina-Open-Source/Katsina-Tech-Directory/ISSUE_TEMPLATE/new?template=join-directory.yml">issue</a> (you will receive an invitation)</li>
     <li> Join our KOSC <a href="https://chat.whatsapp.com/FNGtSHom6IABp0RQu8IVCB?mode=ems_copy_c">WhatsApp</a> community, where you can chat, collaborate, and ask questions</li>
     <li> Want to learn more about GitHub? Watch this video <a href="https://www.youtube.com/watch?v=BI18N3ZC2Es">Getting started with GitHub</a></li>
     <li> Practice the Open Source workflow by adding your name to our <a href="https://github.com/KatsinaOpenSource/open-source-practice">open-source-practice</a> repo (instructions are in the repo)</li>
