@@ -1,0 +1,43 @@
+name: "Join Katsina Tech Directory"
+description: "Submit your details to be added to the directory."
+title: "New Member: [Your Name]"
+labels: ["new member"]
+body:
+  - type: input
+    id: name
+    attributes:
+      label: Full Name
+      description: Enter your full name.
+      placeholder: e.g., Abdurrahman Uthman
+    validations:
+      required: true
+
+  - type: input
+    id: github
+    attributes:
+      label: GitHub Username
+      description: Your GitHub handle (without @).
+      placeholder: e.g., codeknight1
+    validations:
+      required: true
+
+  - type: input
+    id: website
+    attributes:
+      label: Website / Portfolio
+      description: (Optional) Link to your personal site or portfolio.
+      placeholder: https://example.com
+
+  - type: input
+    id: email
+    attributes:
+      label: Contact Email
+      description: (Optional) A professional email for collaboration.
+      placeholder: you@example.com
+
+  - type: textarea
+    id: bio
+    attributes:
+      label: Short Bio
+      description: Tell us briefly about yourself (skills, interests, etc.)
+      placeholder: e.g., Frontend developer specializing in React and Next.js.

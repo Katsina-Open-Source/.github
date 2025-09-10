@@ -26,7 +26,7 @@ Learn more about us at our [website](https://kosc.dev) _(placeholder, replace wi
 
 ## Connect
 
-- [Join our Discord community here](https://discord.gg/yourlink)  
+- [Join our WhatsApp community here](https://chat.whatsapp.com/FNGtSHom6IABp0RQu8IVCB?mode=ems_copy_c)  
 - [Follow us on Twitter (X)](https://twitter.com/KatsinaOSS)  
 - [Subscribe to our YouTube channel](https://youtube.com/@KatsinaOSS)  
 - [LinkedIn Page](https://linkedin.com/company/katsinaopensource)  
